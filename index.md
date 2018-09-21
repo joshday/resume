@@ -43,12 +43,16 @@ https://github.com/joshday/Talks
     - JuliaCon 2018
 - _**SparseRegression.jl: Linear Models with Sparse Coefficients**_
     - JuliaCon 2017
+- _**Sorting Algorithms**_
+    - NC State, ST 758: Statistical Computing (Fall 2017)
 - _**Online MM Algorithms for Machine Learning**_
     - International Chinese Statistical Association Conference 2016
 - _**Julia for Modern Data Analysis**_
     - PyData Carolinas 2016
 - _**OnlineStats.jl: Online Algorithms for Big and Streaming Data**_
     - Joint Statistical Meetings 2016
+- _**Overview of Stochastic Gradient Descent**_
+    - NC State Statistical Learning Group (Fall 2015)
 - _**Intro to Julia**_
     - NC State, ST 758: Statistical Computing (Fall 2015)
 - _**Intro to R and RCpp**_
