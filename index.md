@@ -6,6 +6,8 @@ I am a statistician who enjoys programming (particularly with Julia) for **diffi
 
 My open source projects: [https://github.com/joshday](https://github.com/joshday).
 
+---
+
 ## Interests
 
 - Computational Statistics
@@ -14,6 +16,8 @@ My open source projects: [https://github.com/joshday](https://github.com/joshday
 - Convex Optimization
 - Out-of-core Processing
 - The Julia Language
+
+---
 
 ## Education
 
@@ -24,10 +28,7 @@ My open source projects: [https://github.com/joshday](https://github.com/joshday
 | BS     | Math, Statistics | 2012 | Winona State |
 | BA     | Music, Economics | 2009 | Winona State |
 
-<!-- - **PhD, Statistics** (2018) - NC State University
-- **MS, Statistics** (2014) - NC State University
-- **BS, Math and Statistics** (2012) - Winona State University
-- **BA, Economics and Music** (2009) - Winona State University -->
+---
 
 ## Relevant Experience
 
@@ -52,6 +53,8 @@ My open source projects: [https://github.com/joshday](https://github.com/joshday
 - **CRM Analytics Intern** at **Best Buy** 
     - May 2011 - Sep 2011
     - Created weekly and ad hoc data analyses using SAS and SQL.
+
+---
 
 ## Selected Talks and Lectures
 
@@ -79,7 +82,8 @@ My open source projects: [https://github.com/joshday](https://github.com/joshday
     - NC State, ST 790: Advanced Computing (Spring 2015)
 - _**Penalized Methods: Ridge, Lasso, and Elastic Net**_
     - NC State Statistical Learning Group (Fall 2014)
-  
+
+---
 
 ## Teaching Experience (NC State)
 
