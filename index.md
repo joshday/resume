@@ -70,4 +70,4 @@ My open source projects: [https://github.com/joshday](https://github.com/joshday
 - **ST 312** (Spring 2017, Spring 2015)
 - **ST 311** (Fall 2016, Fall 2014)
 - **ST 350** (Fall 2012)
-- Mentor for **Summer Institute in Biostatistics**, Summer 2014
+- Mentor for **Summer Institute in Biostatistics** (Summer 2014)
