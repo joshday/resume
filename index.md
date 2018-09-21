@@ -35,24 +35,20 @@ My open source projects: [https://github.com/joshday](https://github.com/joshday
     - Oct 2017 - current
     - Developed and maintained a wide variety of open source projects.
     - Built custom Julia software for clients.
-  
-
+<br>
 - **Data Scientist Intern** at **MaxPoint**
     - May 2015 - Aug 2015
     - Researched and implemented streaming data algorithms for advertising retargeting.
     - Worked with big data technologies like Hadoop and Spark.
-  
-
+<br>
 - **Statistical Development Tester** at **SAS-JMP**
     - May 2013 - May 2014 and May 2015 - May 2016
     - Tested validity of statistical platforms.
-  
-
+<br>
 - **Statistics Consultant** at **Winona State University** 
     - Jan 2012 - Aug 2012
     - Assisted students and faculty with data analysis and visualization.
-  
-  
+<br>  
 - **CRM Analytics Intern** at **Best Buy** 
     - May 2011 - Sep 2011
     - Created weekly and ad hoc data analyses using SAS and SQL.
