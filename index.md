@@ -4,6 +4,8 @@
 
 I am a statistician who enjoys programming (particularly with Julia) for **difficult optimization and machine learning problems**. I have done extensive research into **on-line algorithms for streaming and big data**, such as stochastic approximation methods for generalized linear models with regularization. A wide variety of state-of-the-art algorithms, including those developed by me, are implemented in the Julia package [**OnlineStats.jl**](https://github.com/joshday/OnlineStats.jl).
 
+My open source projects: [https://github.com/joshday](https://github.com/joshday).
+
 ## Interests
 
 - Computational Statistics
@@ -37,7 +39,7 @@ I am a statistician who enjoys programming (particularly with Julia) for **diffi
 
 ## Selected Talks and Lectures
 
-https://github.com/joshday/Talks
+[https://github.com/joshday/Talks](https://github.com/joshday/Talks)
 
 - _**Scalable Data Analysis with JuliaDB and OnlineStats**_
     - JuliaCon 2018
