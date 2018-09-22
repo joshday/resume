@@ -1,7 +1,4 @@
----
-title: Resume of Josh Day
-layout: post
----
+# Josh Day
 
 ## Overview
 
