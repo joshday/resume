@@ -25,7 +25,7 @@ jobs:
       - name: Build HTML
         run: |
           mkdir -p _site
-          pandoc README.md \
+          pandoc index.md \
             -o _site/index.html \
             --standalone \
             --metadata title="Josh Day - Resume" \
@@ -34,7 +34,7 @@ jobs:
 
       - name: Build PDF
         run: |
-          pandoc README.md \
+          pandoc index.md \
             -o _site/resume.pdf \
             --pdf-engine=pdflatex \
             -V geometry:margin=0.75in \
