@@ -1,0 +1,56 @@
+name: Build Resume
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra lmodern
+
+      - name: Build HTML
+        run: |
+          pandoc README.md \
+            -o resume.html \
+            --standalone \
+            --metadata title="Josh Day - Resume" \
+            --css=style.css \
+            --embed-resources
+
+      - name: Build PDF
+        run: |
+          pandoc README.md \
+            -o resume.pdf \
+            --pdf-engine=pdflatex \
+            -V geometry:margin=0.75in \
+            -V fontsize=11pt \
+            -V colorlinks=true \
+            -V linkcolor=blue \
+            -V urlcolor=blue
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume
+          path: |
+            resume.html
+            resume.pdf
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add resume.html resume.pdf
+          git diff --cached --quiet || git commit -m "Build resume HTML and PDF"
+          git push
