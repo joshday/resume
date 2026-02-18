@@ -2,7 +2,7 @@
 
 *R&D Data Scientist / Technical Software Engineer*
 
-(763) 458-9630 | hijoshday@gmail.com | [github.com/joshday](https://github.com/joshday) | [heyjoshday.com](https://heyjoshday.com) | [juliafordatascience.com](https://www.juliafordatascience.com)
+763-458-9630 | [emailjoshday@gmail.com](mailto:emailjoshday@gmail.com) | [github.com/joshday](https://github.com/joshday) | [heyjoshday.com](https://heyjoshday.com) | [juliafordatascience.com](https://www.juliafordatascience.com)
 
 ---
 
@@ -19,6 +19,7 @@ Julia, Python, R, React.js, Vanilla HTML/CSS/JS, Plotly.js, Tailwind CSS, SQL, N
 [OnlineStats.jl](https://github.com/joshday/OnlineStats.jl), [PlotlyLight.jl](https://github.com/joshday/PlotlyLight.jl), [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl), [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl), [XML.jl](https://github.com/joshday/XML.jl), [KML.jl](https://github.com/joshday/KML.jl), [TokenIterators.jl](https://github.com/joshday/TokenIterators.jl), [Cobweb.jl](https://github.com/joshday/Cobweb.jl), [QGIS.jl](https://github.com/joshday/QGIS.jl), [SweepOperator.jl](https://github.com/joshday/SweepOperator.jl), and [100+ more on GitHub](https://github.com/joshday?tab=repositories)
 
 **Proprietary Development:**
+
 - Framework + web app for correlating asynchronous time series data
 - Framework + web app for data association/visualization of asynchronous spatio-temporal radar tracks
 - One Click Tuner: Chromatic musical instrument tuner for iOS
@@ -28,38 +29,32 @@ Julia, Python, R, React.js, Vanilla HTML/CSS/JS, Plotly.js, Tailwind CSS, SQL, N
 
 ## Relevant Work Experience
 
-### Director of Software Engineering — Rallypoint One
-**November 2025 – Present**
+### Director of Software Engineering — Rallypoint One | *November 2025 – Present*
 
 - Principal Investigator for federally funded programs (NSF, ONR)
 - Lead engineering teams delivering scientific computing solutions for government R&D
 
-### Senior Research Scientist — JuliaHub
-**October 2017 – October 2025**
+### Senior Research Scientist — JuliaHub | *October 2017 – October 2025*
 
 - Developed technical software for large government projects (DARPA, Air Force Multi-Domain Test Force, In-Q-Tel work programs)
 - Provided internal/external consulting on statistics and data science
 - Created and maintained high-impact open-source Julia packages
 - Creator of the Julia for Data Science newsletter
 
-### Data Scientist II — MaxPoint / Valassis Digital
-**May 2015 – August 2015; August 2019 – October 2019**
+### Data Scientist II — MaxPoint / Valassis Digital | *May 2015 – August 2015; August 2019 – October 2019*
 
 - Developed online algorithms for logistic regression and survival analysis models
 
-### Statistical Development Tester — SAS/JMP
-**May 2013 – May 2016**
+### Statistical Development Tester — SAS/JMP | *May 2013 – May 2016*
 
 - Wrote test suites using the JMP scripting language (JSL) to validate statistical results
 - Researched (and implemented in Julia) new methodologies being considered for JMP
 
-### CRM Analytics Intern — Best Buy
-**May 2011 – September 2011**
+### CRM Analytics Intern — Best Buy | *May 2011 – September 2011*
 
 - Designed and analyzed A/B experiments for customer relationship management
 
-### Statistics Consultant — Winona State University
-**January 2012 – August 2012**
+### Statistics Consultant — Winona State University | *January 2012 – August 2012*
 
 - Provided statistical consulting services to faculty and student researchers
 
