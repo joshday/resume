@@ -1,14 +1,32 @@
 # Josh Day, PhD
 
-**Carrboro, NC** | [heyjoshday.com](https://heyjoshday.com) | [github.com/joshday](https://github.com/joshday) | [juliafordatascience.com](https://www.juliafordatascience.com)
+*R&D Data Scientist / Technical Software Engineer*
+
+(763) 458-9630 | hijoshday@gmail.com | [github.com/joshday](https://github.com/joshday) | [heyjoshday.com](https://heyjoshday.com) | [juliafordatascience.com](https://www.juliafordatascience.com)
 
 ---
 
-Software engineer and statistician specializing in scientific and technical computing. Expert at the intersection of statistics and computer science, converting mathematical concepts into efficient, production-grade software. Creator of widely-used open-source tools for streaming analytics and data science in the Julia ecosystem.
+Innovative and results-driven software engineer, data scientist, and open-source contributor specializing in high-performance computing, data science, and Julia programming. My niche in mathematical and scientific computing enables me to solve complex problems and quickly translate whiteboard math into efficient, scalable programs.
 
 ---
 
-## Experience
+## Technical Experience
+
+**Languages and Frameworks:**
+Julia, Python, R, React.js, Vanilla HTML/CSS/JS, Plotly.js, Tailwind CSS, SQL, NoSQL, Swift and SwiftUI, Makie.jl, RESTful APIs, SciML
+
+**Open Source Packages I'm the Author Of:**
+[OnlineStats.jl](https://github.com/joshday/OnlineStats.jl), [PlotlyLight.jl](https://github.com/joshday/PlotlyLight.jl), [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl), [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl), [XML.jl](https://github.com/joshday/XML.jl), [KML.jl](https://github.com/joshday/KML.jl), [TokenIterators.jl](https://github.com/joshday/TokenIterators.jl), [Cobweb.jl](https://github.com/joshday/Cobweb.jl), [QGIS.jl](https://github.com/joshday/QGIS.jl), [SweepOperator.jl](https://github.com/joshday/SweepOperator.jl), and [100+ more on GitHub](https://github.com/joshday?tab=repositories)
+
+**Proprietary Development:**
+- Framework + web app for correlating asynchronous time series data
+- Framework + web app for data association/visualization of asynchronous spatio-temporal radar tracks
+- One Click Tuner: Chromatic musical instrument tuner for iOS
+- TrendSpot: Keyword research tool
+
+---
+
+## Relevant Work Experience
 
 ### Director of Software Engineering — Rallypoint One
 **November 2025 – Present**
@@ -16,28 +34,24 @@ Software engineer and statistician specializing in scientific and technical comp
 - Principal Investigator for federally funded programs (NSF, ONR)
 - Lead engineering teams delivering scientific computing solutions for government R&D
 
-### Senior Research Scientist — Julia Computing / JuliaHub
+### Senior Research Scientist — JuliaHub
 **October 2017 – October 2025**
 
-- Led development teams on government-funded R&D projects in scientific software and data science
-- Created and maintained high-impact open-source Julia packages (OnlineStats.jl, PlotlyLight.jl, and others)
-- Co-presented "Julia in Air Gapped Environments" at JuliaCon 2024
-- Contributed to the Julia ecosystem as creator of the Julia for Data Science newsletter
+- Developed technical software for large government projects (DARPA, Air Force Multi-Domain Test Force, In-Q-Tel work programs)
+- Provided internal/external consulting on statistics and data science
+- Created and maintained high-impact open-source Julia packages
+- Creator of the Julia for Data Science newsletter
 
-### Data Scientist II — Valassis Digital
-**August 2019 – October 2019**
+### Data Scientist II — MaxPoint / Valassis Digital
+**May 2015 – August 2015; August 2019 – October 2019**
 
-- Researched and developed streaming data models for ad-tech applications
+- Developed online algorithms for logistic regression and survival analysis models
 
-### Data Scientist Intern — MaxPoint
-**May 2015 – August 2015**
+### Statistical Development Tester — SAS/JMP
+**May 2013 – May 2016**
 
-- Developed online algorithms for computational advertising
-
-### Statistical Development Intern — SAS-JMP
-**May 2013 – May 2014; May 2015 – May 2016**
-
-- Researched and prototyped statistical methods for JMP software
+- Wrote test suites using the JMP scripting language (JSL) to validate statistical results
+- Researched (and implemented in Julia) new methodologies being considered for JMP
 
 ### CRM Analytics Intern — Best Buy
 **May 2011 – September 2011**
@@ -54,7 +68,6 @@ Software engineer and statistician specializing in scientific and technical comp
 ## Education
 
 **PhD, Statistics** — NC State University, 2018
-- Research focus: Online algorithms for statistics and streaming data
 
 **MS, Statistics** — NC State University, 2014
 
@@ -64,59 +77,35 @@ Software engineer and statistician specializing in scientific and technical comp
 
 ---
 
-## Open Source
+## Selected Talks
 
-### [OnlineStats.jl](https://github.com/joshday/OnlineStats.jl) — 888+ stars
-Single-pass algorithms for statistics. Processes streaming data with O(1) memory, supporting online and parallel computation. Widely used in the Julia data science ecosystem.
+Slides and other materials available at [github.com/joshday/Talks](https://github.com/joshday/Talks).
 
-### [PlotlyLight.jl](https://github.com/joshday/PlotlyLight.jl) — 114 stars
-Lightweight Julia interface to Plotly.js for interactive data visualization.
-
-### [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) — 76 stars
-Fast kernel density estimation via average shifted histograms, designed for large datasets.
-
-### [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) — 41 stars
-Penalized regression and classification (Ridge, LASSO, Elastic Net) in pure Julia.
-
-### Other Packages
-XKCD.jl, OnlineStatsBase.jl, SweepOperator.jl, HeroIcons.jl, Firestore.jl, Spacy.jl, HTMX.jl, Reproducible.jl, and [100+ more repositories](https://github.com/joshday?tab=repositories).
-
----
-
-## Selected Talks & Presentations
-
+- **Julia For Data Science** — Symposium on Data Science & Statistics 2024
 - **Julia in Air Gapped Environments** — JuliaCon 2024 (with Avik Sengupta)
-- **Using Julia on Large, Streaming Datasets** — Julia Computing Webinar, 2020
+- **Julia for Computational Statisticians** — Joint Statistical Meetings 2023
+- **Julia for Data Science and Statistical Computing** (Short Course) — Joint Statistical Meetings 2022
+- **Using Julia on Large, Streaming Datasets** — Julia Computing Webinar 2020
 - **Scalable Data Analysis with JuliaDB and OnlineStats** — JuliaCon 2018
 - **SparseRegression.jl: Linear Models with Sparse Coefficients** — JuliaCon 2017
-- **OnlineStats.jl** — JuliaCon 2016
-- **Online Optimization** — PyData Carolinas 2016
+- **Sorting Algorithms** — NC State, ST 758: Statistical Computing (Fall 2017)
+- **Online MM Algorithms for Machine Learning** — International Chinese Statistical Association Conference 2016
+- **Julia for Modern Data Analysis** — PyData Carolinas 2016
+- **OnlineStats.jl: Online Algorithms for Big and Streaming Data** — Joint Statistical Meetings 2016
+- **Online Optimization** — NC State, ST 790: Advanced Computing (Spring 2015)
 
 ---
 
 ## Teaching
 
-**Instructor / Teaching Assistant — NC State University**, 2012–2017
+**Course Instructor** | NC State: ST 312 - Intro to Statistics II — Spring 2017, Spring 2015
 
-- ST 311: Introduction to Statistics (multiple semesters)
-- ST 305: Business Statistics
-- ST 758: Statistical Computing — Guest lectures on Julia
-- ST 790: Advanced Computing — Guest lectures on R, Rcpp, and online optimization
-- NC State Statistical Learning Group — Penalized Methods: Ridge, LASSO, and Elastic Net
+**Course Instructor** | NC State: ST 311 - Intro to Statistics — Fall 2016, Fall 2014
+
+**Course Instructor** | NC State: ST 350 - Economic and Business Statistics — Fall 2012
 
 ---
 
-## Skills
+## Interests and Other Skills
 
-**Languages:** Julia, Python, R, SQL, JavaScript, HTML/CSS
-
-**Domains:** Online/streaming algorithms, statistical computing, numerical optimization, data visualization, machine learning, kernel density estimation, penalized regression
-
-**Other:** Open-source development, technical writing, federal R&D (NSF, ONR), scientific software architecture, A/B testing, ad-tech analytics
-
----
-
-## Products
-
-- **One Click Tuner** — iOS chromatic instrument tuner
-- **TrendSpot** — Keyword research tool
+AI/ML, Online Algorithms, Numerical Optimization, MM Algorithms, Ecology & Earth Systems, Penalized Regression, Reproducible Research, Numerical Linear Algebra, Data Visualization, Pluto Notebooks, Jupyter Notebooks, Web Apps, Interactive Dashboards, Signal Processing, Linear Models, Mixed Models, Design of Experiments, Time Series Analysis, Geodesy, Differential Equations, Modeling and Simulation, Open Source Software
